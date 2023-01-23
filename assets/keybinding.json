@@ -1,0 +1,36 @@
+[
+  // For MacOS
+  {
+    "key": "cmd+s",
+    "command": "extension.multiCommand.execute",
+    "args": {
+      "sequence": ["attrsSorter.execute", "workbench.action.files.save"]
+    },
+    "when": "editorLangId == html"
+  },
+  {
+    "key": "cmd+s",
+    "command": "extension.multiCommand.execute",
+    "args": {
+      "sequence": ["postcssSorting.execute", "workbench.action.files.save"]
+    },
+    "when": "editorLangId == css"
+  },
+  // For Windows or Linux
+  {
+    "key": "ctrl+s",
+    "command": "extension.multiCommand.execute",
+    "args": {
+      "sequence": ["attrsSorter.execute", "workbench.action.files.save"]
+    },
+    "when": "editorLangId == html"
+  },
+  {
+    "key": "ctrl+s",
+    "command": "extension.multiCommand.execute",
+    "args": {
+      "sequence": ["postcssSorting.execute", "workbench.action.files.save"]
+    },
+    "when": "editorLangId == css"
+  }
+]

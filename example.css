@@ -1,0 +1,19 @@
+/**
+  |================================
+  | Press command + S for watching
+  | result of setting
+  |================================
+*/
+
+body {
+  display: block;
+  top: 0;
+  margin-top: 10px;
+  left: 0;
+  font-size: 18px;
+  position: relative;
+  font-family: var(--main-font);
+  line-height: calc(30 / 18);
+  color: var(--main-txt-cl);
+  letter-spacing: 0.02em;
+}
