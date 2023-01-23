@@ -1,5 +1,5 @@
 <div align="right">
-	<a href=""><img src="./assets/ukraine-flag-icon.png" width="40"></a>
+	<a href="https://github.com/YK911/sorting-attributes-and-properties/blob/main/README.uk.md"><img src="./assets/ukraine-flag-icon.png" width="40"></a>
 	<a href="https://github.com/YK911/sorting-attributes-and-properties/blob/main/README.md"><img src="./assets/united-states-flag-icon.png" width="40"></a>
 </div>
 
