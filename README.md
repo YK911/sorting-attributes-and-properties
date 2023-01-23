@@ -1,3 +1,8 @@
+<div align="right">
+	<a href=""><img src="./assets/ukraine-flag-icon.png" width="40"></a>
+	<a href="https://github.com/YK911/sorting-attributes-and-properties/blob/main/README.md"><img src="./assets/united-states-flag-icon.png" width="40"></a>
+</div>
+
 # Sorting HTML attributes and CSS properties
 
 Setup for sorting HTML attribute and CSS properties using **mrmlnc** plugins
@@ -12,7 +17,7 @@ Setup for sorting HTML attribute and CSS properties using **mrmlnc** plugins
 
 2. Create or change file `settings.json` in `.vscode` folder
 
-3. **Copy & paste** code from `settings.json` in this repository [link](./.vscode/settings.json)
+3. **Copy** code from this repository file [`settings.json`](./.vscode/settings.json) and **paste** in your `settings.json` file as see below
 
 ![Pluging](./assets/settings.jpg)
 
@@ -20,7 +25,7 @@ Setup for sorting HTML attribute and CSS properties using **mrmlnc** plugins
 
 - [multi-command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command)
 
-5. **Copy & paste** code from `keybinding.json` in this repository [link](./assets/keybinding.json)
+5. **Open** Keyboard shorcuts settings **copy** code from this repository file [`keybinding.json`](./assets/keybinding.json) and **paste** in your `keybinding.json` file as see below
 
 ![Pluging](./assets/keybinding-1.jpg)
 ![Pluging](./assets/keybinding-2.jpg)
