@@ -30,7 +30,7 @@
 ![Pluging](./assets/keybinding-1.jpg)
 ![Pluging](./assets/keybinding-2.jpg)
 
-6. Watching this [video]() that includes all setting for automatic sorting
+6. Watching this [video](https://www.loom.com/share/e21498044ffa43c2a44cbc38db4f9f70) that includes all setting for automatic sorting
 
 ---
 
